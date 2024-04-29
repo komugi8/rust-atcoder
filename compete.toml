@@ -40,7 +40,6 @@ type Deque<T> = VecDeque<T>;
 
 #[fastout]
 fn main() {
-    todo!();
 }
 '''
 
